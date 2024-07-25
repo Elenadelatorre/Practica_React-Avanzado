@@ -1,0 +1,16 @@
+.Calculator {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.Title {
+  font-size: 40px;
+}
+
+.Operations {
+  display: flex;
+  gap: 10px;
+}
